@@ -1,0 +1,2 @@
+{"postCreateCommand": ["source venv/scripts/activate"]
+}
